@@ -1,14 +1,17 @@
 **Boas vindas ao meu perfil 💙💙**
 
-Meu nome é Maria Eduarda Niitsuma
+_Meu nome é Maria Eduarda Niitsuma_
 
-Estou estudando na Alura
+- Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-  esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+###_Você pode entrar em contato comigo 📫_
+
 niitsumaria@gmail.com
 
-@alurastartestudante
+
+(![gif](https://github.com/duuhdinha/duuhdinha/assets/169486769/3bc42345-8b4e-40d3-854c-509665c74607)
+
