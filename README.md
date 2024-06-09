@@ -6,7 +6,7 @@ _Meu nome é Maria Eduarda Niitsuma_
 
 - Estou me desenvolvendo na linguagem JavaScript
 
--  esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Uso esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ###_Você pode entrar em contato comigo 📫_
 
